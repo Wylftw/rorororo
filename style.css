@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+body{
+    text-align: center;
+}
+h1 imd{
+    padding-right: 500px;
+}
+header{
+    background-color: red;
+padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+}
+
+
+main a{
+    background-color:rgba(250, 62, 84, 1) ;
+    padding: 5px;
+}
+footer p{
+    background-color: white;
+    text-align: left;
+}
+footer{
+    background-color: rgba(159, 0, 19, 1);
+    padding: 4px;
+    
+}
+
+
+
+
